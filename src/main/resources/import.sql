@@ -4,12 +4,12 @@ INSERT INTO tb_seller(name, email, phone) VALUES ('Padme', 'padme@gmail.com', '9
 INSERT INTO tb_seller(name, email, phone) VALUES ('Thor Odinson', 'thor@gmail.com', '997711148');
 INSERT INTO tb_seller(name, email, phone) VALUES ('Anakin', 'any@gmail.com', '844768748');
 
-INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (1,121,67,18196.0,'2024-06-16');
-INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (2,26,14,4255.0,'2024-06-14');
-INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (3,55,42,13249.0,'2024-06-14');
+INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (1,121,67,20196.0,'2024-06-16');
+INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (2,26,14,9255.0,'2024-06-14');
+INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (3,55,42,19249.0,'2024-06-14');
 INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (3,73,65,20751.0,'2024-06-10');
 INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (2,47,25,7318.0,'2024-06-04');
-INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (4,72,60,15608.0,'2024-06-03');
+INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (4,72,60,35608.0,'2024-06-03');
 INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (4,97,68,8901.0,'2024-06-03');
 INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (5,68,26,13231.0,'2024-06-02');
 INSERT INTO tb_sales(seller_id,visited,deals,amount,date) VALUES (1,73,53,19372.0,'2024-05-22');
